@@ -1,0 +1,18 @@
+From: "Newsletter Team" <newsletter@example-company.com>
+Reply-To: newsletter@example-company.com
+Return-Path: <bounce@example-company.com>
+To: user@example.com
+Subject: Your Monthly Company Newsletter
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=example-company.com; dkim=pass; dmarc=pass
+Received: from mail.example-company.com (mail.example-company.com [198.51.100.10]) by mx.example.com
+Content-Type: text/plain; charset="utf-8"
+
+Hi there,
+
+Here's a quick summary of what's new this month at Example Company.
+Read the full newsletter on our website: https://www.example-company.com/newsletter
+
+Thanks for being a subscriber!
+
+Best,
+The Example Company Team

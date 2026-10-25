@@ -1,0 +1,22 @@
+From: "Account Security" <security@examplebank-alerts.com>
+Reply-To: support@totally-legit-verify.xyz
+Return-Path: <bounce@mailer-service.top>
+To: user@example.com
+Subject: Urgent Action Required: Verify Your Account Now
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=examplebank-alerts.com; dkim=fail; dmarc=fail
+Received: from mail1.mailer-service.top (unknown [203.0.113.5]) by mx.example.com
+Received: from smtp.internal.example (10.0.0.1) by mail1.mailer-service.top
+Content-Type: text/plain; charset="utf-8"
+
+Dear Customer,
+
+We detected unusual activity on your account. Your account will be
+suspended within 24 hours unless you verify your identity immediately.
+
+Click here to confirm your identity: http://192.0.2.44/verify-account
+Or use this secure link: http://bit.ly/acct-verify-now
+
+This is a final notice. Act now to avoid suspension of your account.
+
+Thank you,
+Account Security Team
